@@ -8,6 +8,11 @@
     "require": {
       "php": ">=5.2"
     },
+    "authors": [
+              {
+                  "name": "John Smith",
+              },
+    ],
     "autoload": {
         "files": ["/lib/cps_simple.php"]
     }

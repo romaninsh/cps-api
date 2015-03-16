@@ -1,0 +1,15 @@
+{
+    "name": "romaninsh/cps-api",
+    "type": "library",
+    "version": "1.x",
+    "keywords": ["clusterpoint","api"],
+    "homepage": "https://www.clusterpoint.com/",
+    "source": {
+        "url": "https://github.com/romaninsh/cps-api.git",
+        "type": "git",
+        "reference": "origin/master"
+    },
+    "autoload": {
+        "files": ["/lib/cps_simple.php"]
+    }
+}
